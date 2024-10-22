@@ -12,6 +12,10 @@ knitr::opts_chunk$set(echo = TRUE)
 # Hikes in Himalayas
 
 There are multple beautiful hikes in the Himalayas.
+```{r include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
 
 ## Different Hikes
 1. Kashmir Great Lakes\
@@ -19,6 +23,10 @@ There are multple beautiful hikes in the Himalayas.
 3. Warwan Valley\
 4. Kalahoi Glacier\
 5. Narang Mahlish\
+
+```{r include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 
 ## Things to carry
 - Water Bottle\
